@@ -1,0 +1,37 @@
+body{background-color:#91C3CC;
+}
+h1,p{
+  text-align:center;
+color:white;
+}
+
+.container{
+  display:flex;
+  background-color:black;
+  width:2040px;
+  content:center;
+
+}
+
+.container div{
+  background-color:lightblue;
+  margin: 10px;
+  padding: 20px;
+  font-size: 24px;
+  content: center;
+}
+
+#main-footer{
+  
+  background-color:#7FA4B0;
+  color:aliceblue;
+  text-align:center;
+  padding: 2rem;
+  margin-top: 2rem;
+}
+
+.social a{
+  color:white;
+  margin:0 1rem;
+  font-size:1.2rem;
+}
